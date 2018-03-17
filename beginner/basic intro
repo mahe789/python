@@ -1,0 +1,2 @@
+mystring = "hi i am mahendran" + " salem"
+print(mystring)
